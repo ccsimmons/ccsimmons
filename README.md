@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccsimmons
 - 👀 I’m interested in ColdFusion, jQuery, JavaScript
-- 🌱 I’m currently learning Bootstrap 5
+- 🌱 I’m currently learning Bootstrap 5 and Python
 - 📫 ccsimmons@gmail.com
 
 <!---
