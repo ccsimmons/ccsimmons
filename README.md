@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ccsimmons
 - 👀 I’m interested in ColdFusion, jQuery, JavaScript
+- 📦 CommandBox is the BEST
 - 🍓 I tinker with several Raspberry Pis
-- 🌱 I’m currently learning Bootstrap 5 and Python
+- 🧠 I’m currently learning Bootstrap 5 and Python
 - 📫 ccsimmons@gmail.com
 
 <!---
